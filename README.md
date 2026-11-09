@@ -1,2 +1,2 @@
-# R25EQ019
-My academic programming activities and practical work
+
+This repository contains my academic programming activities and practical exercises completed as part of my B.Tech Information Science and Engineering (ISE) course. It includes programming assignments, problem-solving exercises, and practical implementations using C, C++, and other programming languages. The purpose of this repository is to maintain my work, track my learning progress, and improve my programming skills.
